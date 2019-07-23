@@ -17,6 +17,6 @@ NOTE: the DLL file is placed inside of the WebApp's directory - so if you recomp
 
 Please review the manifest.json file to view how to reference the Plugin file.
 
-Please, don't hesitate to ask us questions in our developers forum: http://forums.overwolf.com/.
+Please, don't hesitate to ask us questions in our developers forum: https://discuss.developers.overwolf.com/.
 
 The Overwolf Team
